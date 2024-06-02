@@ -13,7 +13,7 @@ void main() {
           padding: EdgeInsets.all(8.0),
           child: Center(
             child: Text(
-              'Estamos aprendiendo Flutter 🚀',
+              'Estamos aprendiendo Flutter!!! 🚀✌🏻',
               textAlign: TextAlign.center,
               style: TextStyle(
                   fontWeight: FontWeight.bold,
